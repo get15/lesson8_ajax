@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 10th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Garrett Turner)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I learned how to build an application using an API and I parsed JSON data from a HTTP response message.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://get15.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to build an application using an API)
+2. (I learned how to parse JSON data from a HTTP response message)
+3. (I learned how to use Ajax methods and properties to allow the client to send and receive an HTTP response method)
